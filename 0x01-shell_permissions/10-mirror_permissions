@@ -1,2 +1,2 @@
 #!/bin/bash
-setfacl --set-file olleh hello
+sudo chmod --reference=olleh hello
