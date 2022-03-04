@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 111  $(find [path] -type d)
-
+chmod 111 $(find [path] -type d)
